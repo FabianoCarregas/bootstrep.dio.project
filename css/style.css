@@ -1,0 +1,23 @@
+body{
+    font: 20px Arial;
+}
+
+.navbar{
+    background-color: rgb(167, 36, 36);
+}
+
+.who-we-are{
+    background-color: rgb(238, 232, 143);
+    color: white;
+}
+
+.margin{
+    padding-top: 10px;
+    padding-bottom: 30px;
+
+}
+
+.partners{
+    background-color: rgb(224, 109, 64);
+    height: 100%;
+}
